@@ -4,9 +4,22 @@
 
 👋 Hi, I'm Sanduni!
 
-### 🎓 Undergraduate Student at the University of Colombo
+<h2 align="center">
+  🎓 Undergraduate Student | University of Colombo
+</h2>
 
-### 📊 Aspiring Business Analyst | Technology Enthusiast
+<h3 align="center">
+  📊 Aspiring Business Analyst
+</h3>
+
+<p align="center">
+  Passionate about Business Analysis,
+  Data Analytics and Technology.
+</p>
+
+<p align="center">
+  ✨ Turning Data into Insights ✨
+</p>
 
 Welcome to my GitHub profile!
 
@@ -47,11 +60,8 @@ To grow into a skilled Business Analyst who bridges the gap between business nee
 
 ## 💜 My Interests
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Business%20Analysis-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Business%20Analysis-8A2BE2?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Data%20Analytics-6A5ACD?style=for-the-badge](https://img.shields.io/badge/Data%20Analytics-6A5ACD?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Technology-9932CC?style=for-the-badge](https://img.shields.io/badge/Technology-9932CC?style=for-the-badge)" />
-\</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/Business%20Analysis-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Business%20Analysis-8A2BE2?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Data%20Analytics-6A5ACD?style=for-the-badge](https://img.shields.io/badge/Data%20Analytics-6A5ACD?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Technology-9932CC?style=for-the-badge](https://img.shields.io/badge/Technology-9932CC?style=for-the-badge)" /> \</p>
+
 
 
 Turning Data into Insights | Turning Ideas into Solutions
