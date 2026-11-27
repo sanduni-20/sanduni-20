@@ -94,6 +94,30 @@ To grow into a skilled Business Analyst who bridges the gap between business nee
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanduni-20&bg_color=0d1117&color=bb86fc&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Web Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 📊 Business & Data Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business_Analysis-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analytics-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem_Solving-9932CC?style=for-the-badge" />
+</p>
+
+### 🎓 Career Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business_Intelligence-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital_Transformation-8A2BE2?style=for-the-badge" />
+</p>
 
 - 📫 How to reach me **saduninethsara20@gmail.com**
 
