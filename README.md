@@ -1,11 +1,42 @@
-<h1 align="center">Hi 👋, I'm sanduni</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+# 👋 Hi, I'm Sanduni!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanduni-20&label=Profile%20views&color=0e75b6&style=flat" alt="sanduni-20" /> </p>
+### 🎓 Undergraduate Student at the University of Colombo
 
-- 🔭 I’m currently working on **LRD-G12**
+### 📊 Aspiring Business Analyst | Technology Enthusiast
 
-- 🌱 I’m currently learning **java**
+Welcome to my GitHub profile!
+
+I'm an undergraduate student at the **University of Colombo**, with a strong interest in **Business Analysis, Data Analytics, and Technology**.
+
+I'm passionate about understanding business problems, analyzing data, discovering insights, and exploring how technology can create meaningful business solutions.
+
+### 🎯 My Career Interests
+
+- 📊 Business Analysis
+- 📈 Data Analytics & Visualization
+- 💡 Business Intelligence
+- 🔍 Problem Solving & Critical Thinking
+- 💻 Technology & Digital Transformation
+
+### 🌱 Currently Exploring
+
+- Business Analysis Concepts
+- Data-Driven Decision Making
+- Data Visualization
+- Software & Technology Solutions
+
+### 🚀 My Projects
+
+Explore my repositories to see what I'm learning and building.
+
+### ✨ My Goal
+
+To grow into a skilled Business Analyst who bridges the gap between business needs and technology through analytical thinking and innovative solutions.
+
+---
+
+\<p align="center">   \*\*Turning Data into Insights | Turning Ideas into Solutions\*\* \</p>
+
 
 - 📫 How to reach me **saduninethsara20@gmail.com**
 
