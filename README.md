@@ -119,6 +119,36 @@ To grow into a skilled Business Analyst who bridges the gap between business nee
   <img src="https://img.shields.io/badge/Digital_Transformation-8A2BE2?style=for-the-badge" />
 </p>
 
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,js" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 📊 Career Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Business_Analysis-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analytics-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-9932CC?style=for-the-badge" />
+</p>
+
+
 - 📫 How to reach me **saduninethsara20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
