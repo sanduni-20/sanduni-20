@@ -39,7 +39,7 @@ To grow into a skilled Business Analyst who bridges the gap between business nee
 
 ---
 
-\<p align="center">   \*\*Turning Data into Insights | Turning Ideas into Solutions\*\* \</p>
+Turning Data into Insights | Turning Ideas into Solutions
 
 
 - 📫 How to reach me **saduninethsara20@gmail.com**
