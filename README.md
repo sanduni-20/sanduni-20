@@ -88,6 +88,12 @@ To grow into a skilled Business Analyst who bridges the gap between business nee
   </a>
 </p>
 
+## 📅 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanduni-20&bg_color=0d1117&color=bb86fc&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
 
 - 📫 How to reach me **saduninethsara20@gmail.com**
 
