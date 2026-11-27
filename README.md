@@ -39,6 +39,21 @@ To grow into a skilled Business Analyst who bridges the gap between business nee
 
 ---
 
+## 📊 GitHub Statistics
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=sanduni-20&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff](https://github-readme-stats.vercel.app/api?username=sanduni-20\&show_icons=true\&theme=tokyonight\&bg_color=0d1117\&title_color=bb86fc\&icon_color=bb86fc\&text_color=ffffff)" width="48%" /> \</p>
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sanduni-20&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=bb86fc&text_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=sanduni-20\&layout=compact\&theme=tokyonight\&bg_color=0d1117\&title_color=bb86fc\&text_color=ffffff)" width="48%" /> \</p>
+
+## 💜 My Interests
+
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/Business%20Analysis-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Business%20Analysis-8A2BE2?style=for-the-badge)" />
+&#x20; \<img src="[https://img.shields.io/badge/Data%20Analytics-6A5ACD?style=for-the-badge](https://img.shields.io/badge/Data%20Analytics-6A5ACD?style=for-the-badge)" />
+&#x20; \<img src="[https://img.shields.io/badge/Technology-9932CC?style=for-the-badge](https://img.shields.io/badge/Technology-9932CC?style=for-the-badge)" />
+\</p>
+
+
 Turning Data into Insights | Turning Ideas into Solutions
 
 
