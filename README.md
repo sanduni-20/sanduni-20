@@ -71,8 +71,22 @@ To grow into a skilled Business Analyst who bridges the gap between business nee
 </p>
 
 
+## 🚀 Featured Projects
 
-Turning Data into Insights | Turning Ideas into Solutions
+<p align="center">
+  <a href="https://github.com/sanduni-20/CodeEditor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanduni-20&repo=CodeEditor&theme=tokyonight&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/sanduni-20/Moderneditor1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanduni-20&repo=Moderneditor1&theme=tokyonight&bg_color=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sanduni-20/Mobile-Text-Editor-01">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanduni-20&repo=Mobile-Text-Editor-01&theme=tokyonight&bg_color=0d1117" />
+  </a>
+</p>
 
 
 - 📫 How to reach me **saduninethsara20@gmail.com**
